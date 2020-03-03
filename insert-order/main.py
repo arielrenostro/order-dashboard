@@ -69,7 +69,10 @@ def lambda_handler(event, context):
             'statusCode': 201,
             'body': json.dumps({
                 'ok': True
-            })
+            }),
+            'headers': {
+                'Access-Control-Allow-Origin': '*'
+            }
         }
     except RequestException as e:
         return {
@@ -77,5 +80,8 @@ def lambda_handler(event, context):
             'body': json.dumps({
                 'ok': False,
                 'message': e.message
-            })
+            }),
+            'headers': {
+                'Access-Control-Allow-Origin': '*'
+            }
         }

@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d44ec141-8a35-4cec-a90b-2fdd683a3d4d" name="Default Changelist" comment="" />
+    <list default="true" id="d44ec141-8a35-4cec-a90b-2fdd683a3d4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderDashFront/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderDashFront/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderDashFront/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderDashFront/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderDashFront/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderDashFront/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderDashFront/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderDashFront/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Yb9zBLfZCdzSL2rtYgwKqvbxTV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../insert-order" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -70,11 +84,23 @@
       <option name="presentableId" value="Default" />
       <updated>1583200686860</updated>
       <workItem from="1583200689654" duration="3975000" />
+      <workItem from="1583208346173" duration="152000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/list_orders$main.coverage" NAME="main Coverage Results" MODIFIED="1583202266170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
